@@ -1,0 +1,25 @@
+#root {
+  min-height: 100vh;
+ 
+  background: #1e3a8a; /* Optional: keeps a nice gradient background */
+ 
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+

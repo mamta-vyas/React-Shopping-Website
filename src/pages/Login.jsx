@@ -1,5 +1,5 @@
 import React, { useState, useContext } from "react";
-import "./login.css";
+import "./Login.css";
 import { useNavigate } from "react-router-dom";
 import { CartContext } from "../context/CartContext"; // ✅ Import context
 
